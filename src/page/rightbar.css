@@ -1,0 +1,39 @@
+header{
+    display: flex;
+}
+#h1{
+    font-size: .6em;
+    align-items: justify;
+    flex: 1;
+}
+#h2{
+    font-size: .6em;
+    flex:1;
+}
+#h3{
+    font-size: .6em;
+    flex:1;
+}
+#h4{
+    font-size: .6em;
+    flex:1;
+}
+#h5{
+    font-size: .6em;
+    flex: 1;
+}
+#h6{
+    font-size: .6em;
+    flex: 1;
+}
+#h7{
+    font-size: .6em;
+    flex:1;
+}
+#h8{
+    font-size: .6em;
+    flex: 1;
+}
+li{
+    list-style: none;
+}

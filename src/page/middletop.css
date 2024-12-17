@@ -1,0 +1,86 @@
+#try1{
+    font-size: 1em;
+    text-align: center;
+}
+#try2{
+    font-size: 1em;
+    text-align: center;
+}
+#fun{
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+}
+#if1{
+    font-size: .5em;
+    text-transform: uppercase;
+    
+}
+#if2{
+    font-size: .5em;
+    text-transform: uppercase;
+    
+}
+#if3{
+    font-size: .5em;
+    text-transform: uppercase;
+    
+}
+#if4{
+    font-size: .5em;
+    text-transform: uppercase;
+    
+}
+#if5{
+    font-size: .5em;
+    text-transform: uppercase;
+    
+}
+#hi{
+    border-style: solid;
+    border: 10px;
+}
+#out1
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: orchid;
+}
+#out2
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: yellow;
+}
+#out3
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: skyblue;
+}
+#out4
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: violet;
+}
+#out5
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: blue;
+
+}
+#try{
+    background-color: gray;
+}

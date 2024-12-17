@@ -1,0 +1,19 @@
+
+#idea1{
+    border: 1px;
+    border-style: double;
+}
+#tab{
+ background-color: beige;
+ border-style: solid;
+ margin: 5px;
+ animation: scroll 40% linear infinite;
+}
+@keyframes scroll{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(calc(-250px * 7));
+    }
+}
